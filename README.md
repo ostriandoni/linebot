@@ -34,3 +34,9 @@ Go to Heroku dashboard > Settings > Config Variables, add following app's secret
 LINE_CHANNEL_SECRET='xxx'
 LINE_CHANNEL_ACCESS_TOKEN='xxx'
 ```
+
+
+## Result
+<img src="src/img1.jpg">
+
+<img src="src/img2.jpg">
